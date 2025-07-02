@@ -1,5 +1,3 @@
-Absolutely! Here's a clear and simple `README.md` for your **Digital Clock** project:
-
 ---
 
 ## 📘 `README.md`
@@ -13,7 +11,7 @@ A simple digital clock built with Python that displays the current time in the t
 
 ```
 
-python-digital-clock/
+python-digitalclock/
 ├── digital\_clock.py
 └── README.md
 
@@ -23,8 +21,8 @@ python-digital-clock/
 
 ### 1. Clone or Create the Project Directory
 ```bash
-mkdir python-digital-clock
-cd python-digital-clock
+mkdir python-digitalclock
+cd python-digitalclock
 ````
 
 ### 2. Create the Python File
@@ -64,13 +62,3 @@ Tested with:
 * Python 3.6+
 * Python 2.7 (with modified code)
 
-## 📄 License
-
-MIT License – free to use, modify, and share.
-
-```
-
----
-
-Let me know if you'd like to add screenshots, a GUI version, or host it on GitHub!
-```
